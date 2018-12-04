@@ -1,4 +1,8 @@
 Git is a distributed version control system
 
-love me baby
+<<<<<<< HEAD
 love you baby
+=======
+love you baba
+
+>>>>>>> feature1
